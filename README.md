@@ -1,5 +1,3 @@
-Berikut versi README.md yang sudah diperbaiki dan lebih informatif, termasuk cara menginstal **OpenZeppelin** dan **Solmate**.  
-
 ---
 
 # Foundry Basic NFT  
@@ -87,5 +85,3 @@ By combining **Foundry, Solmate, and OpenZeppelin**, you get the best of both wo
 🚀 **Start building Ethereum smart contracts efficiently today!** 🚀  
 
 ---
-
-README ini sudah lengkap dengan **Solmate dan OpenZeppelin**, serta menjelaskan kapan harus menggunakannya. 🚀
