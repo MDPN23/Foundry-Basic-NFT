@@ -19,8 +19,12 @@ Foundry consists of:
 https://book.getfoundry.sh/
 
 ## Usage
+if you want to start you need to install open zeppelin and solmate first.
+
+
 
 ### Build
 
 ```shell
 $ forge build
+
