@@ -62,9 +62,14 @@ forge build
 ```
 
 ### Deploy  
-
+you can deploy with solmate lib
 ```sh
-forge script script/DeployMinimalNFT.s.sol:DeployMinimalNFT --rpc-url $RPC_URL --private-key $PRIVATE_KEY --broadcast
+forge script script/MinimalNFT.s.sol:DeployMinimalNFT --rpc-url $RPC_URL --private-key $PRIVATE_KEY --broadcast
+```
+
+or you can use openzeppelin lib
+```sh
+forge script script/myNFT.s.sol:DeploymyNFT --rpc-url $RPC_URL --private-key $PRIVATE_KEY --broadcast
 ```
 
 ---
@@ -85,3 +90,5 @@ By combining **Foundry, Solmate, and OpenZeppelin**, you get the best of both wo
 🚀 **Start building Ethereum smart contracts efficiently today!** 🚀  
 
 ---
+
+Always open for discusiion guuys >.< lets grow together
